@@ -1,0 +1,24 @@
+00:00
+Hello, I'm Spiros, you're you. 231999, I'm here to review Dominic's Figma project. So let's start. First of all, it has a welcoming page which is good for first time users. It explains what it does and how it works pretty much.
+
+00:29
+actually reading it, to scroll down. You need to agree... Ah, ok, you need to click first. After you accept, you complete the introduction and you get introduced to the Classroom Occupancy Detection System.
+
+00:56
+After you start using it, you will have the option to either log in with the data if you have already signed up or you can sign up. You can either log in or sign up. You can either sign up here or here. Yeah, you can either sign up here or here or log in with either your own data or Google's. So for our purpose, let's sign up. It has options to...
+
+01:23
+enter your email, your phone number and your password. If we do sign up for that hypothetically we're gonna have a big list of classrooms that are going on and classes courses. You can see if they are what's their status if they're available pending or possibly taken. In this one you can look up for certain
+
+01:53
+You can search for stuff like digital marketing, business admin, game development and UX and UI class specifically. If you want to add a class you can add the name, the professor's name and university year which is quite simple to use. You can upload the professor's avatar just in case and you can submit the request if so be it. As for the bookmarks, you can bookmark specific classes.
+
+02:22
+you want to do and check how they are doing. You can see their progress. For example, this has 35 minutes left. This has an hour and 35 minutes left and this one has already ended. You can see where they are and even remove them if you want which is quite intuitive. You can also see your account. You can see your name, your registration level, your address, your phone number, your email obviously.
+
+02:48
+You can turn on and off notifications and delete your account in case you don't want to take part in that anymore. You can edit. And yeah, I think that's pretty much it. In my personal opinion it's a very intuitive UI application. It has a lot of interactive elements. Even a voice command feature as you can see here. I noticed earlier.
+
+03:18
+I think a great job has been done here and it should be pretty good for applicable use. Yeah, that's all.
+

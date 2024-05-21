@@ -1,0 +1,20 @@
+
+Did this, sir? Yeah. Oh, no, sir. Hello. I'm Spiroz.
+
+You're you. 23199. Here to review Dominic's Figma project. So let's start. First of all, it has a welcoming page, which is good for first time users.
+
+It can it explains what it does, if and how it works pretty much. And, you need to accept the user agreement first, which includes, like, actually reading it. Scroll down. You need to agree. Wait.
+
+This a bit mhmm. Ah, okay. You need to click first. Okay. After you accept, you complete the introduction, and, you get introduced to the classroom occupancy detection system.
+
+After you start using, you will have the option to either log in from, with the the data you with if you have already signed up, or you can sign up. Yeah. You can either log in or sign up, or you you can either here click here or here. It's the page. Yeah.
+
+Yeah. You can either sign up, here here with or log in with, like, either your own data or Google's. So for our purpose, let's sign up. It, has options to, enter your email, your phone number, and your password. If we do sign up for that, hypothetically, we're gonna have a big list of, classrooms that are going on and, classes courses.
+
+You can see if they're, what's their status, if they're available, pending, or possibly taken. In this one, you can look up for, certain things you wanna look up. You can search for stuff like digital marketing, business setting, game development, and UX and the UI class, specifically. You wanna add a class, you can add the name, the professor's name, and university here, which is quite, like, you it's simply to use. You can upload the professor's avatar just in case, and you can submit the request if so be.
+
+As for the bookmarks, you can bookmark specific classes that you wanna do, and check how they are doing. You can see their progress. For example, this has 35 minutes left. This has an hour and 35 minutes left, and this one has already ended. You can see where they are and even remove them if you want, which is, quite intuitive.
+
+You can also see your account. You can see, your name, your registration level, your address, your phone number, your, g your email, obviously. You can turn on notifications on and off and delete your account in case you don't want to take part of that anymore. You can, edit. And, yeah, I think that's pretty much it.
+
+It's, in my personal opinion, it's a very intuitive, UI application. It has a lot of, interactive elements, even a voice command feature as you can see here and noticed earlier. I think, great great job has been done here, and, it should be pretty good for, applicable use. And yeah. That's all.

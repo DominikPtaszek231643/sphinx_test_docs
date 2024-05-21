@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dominik Ptaszek's  Project on Stable Diffusion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Stable Diffusion for Game Assets</h1>
+        <p>By Dominik Ptaszek</p>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>This project focuses on the application of the Stable Diffusion model to generate detailed game assets. The main goal was to fine-tune the model to optimize it for creating items, characters, and objects specifically designed for game development.</p>
+
+        <p>For a detailed walkthrough of my project, see my <a href="https://colab.research.google.com/drive/1tolCGs_pg3fXK45GbpZCRaZmBFVVdvdc?usp=sharing" target="_blank">project colab notebook</a>.
+         or
+        <a href="https://github.com/DominikPtaszek231643/generative_ai/tree/main/project_file" target="_blank">project source file on Github Repo</a>.
+        </p>
+    </section>
+
+    <section id="methodology">
+        <h2>Methodology</h2>
+        <ol>
+            <li>Study of diffusion models.</li>
+            <li>Selection of a fine-tuning method.</li>
+            <li>Creation of a game assets dataset.</li>
+            <li>Fine-tuning the Stable Diffusion model with the dataset.</li>
+            <li>Evaluation of results and iterative improvements.</li>
+        </ol>
+    </section>
+
+   <section id="results">
+    <h2>Results</h2>
+    <p>This project achieved remarkable success in fine-tuning a Stable Diffusion model to generate high-quality game assets, optimized specifically for game development environments. The key aspects of the project are detailed below:</p>
+
+    <ul>
+        <li><strong>Hardware Utilization:</strong> The training was conducted on a Tesla T4 GPU on Google Colab platform, leveraging its high computational power to handle complex model training with a significant dataset.</li>
+
+        <li><strong>Deep Learning Libraries:</strong> Advanced deep learning libraries such as PyTorch, Hugging Face's Transformers, and Accelerate were employed. These libraries provided a robust framework for model training and optimization.</li>
+
+       <li><strong>Model Choice and Fine-Tuning Techniques:</strong> The foundational model for this project was the pre-existing Stable Diffusion model, renowned for its capability to generate detailed images from text descriptions. For fine-tuning, two advanced techniques were employed - Lora (Low-Rank Adaptation) and DreamBooth. Lora is a novel approach that adapts a pre-trained model with minimal additional parameters, making it efficient and effective for fine-tuning without extensive retraining. This technique was instrumental in adjusting the model's parameters to better cater to the specifics of game asset generation. On the other hand, DreamBooth further refined the model's ability to generate game assets by personalizing the generation process. It involves training the model on a small set of target-specific images, allowing it to create new images that are similar in style and content. This dual approach of using Lora and DreamBooth provided a robust fine-tuning strategy, enabling the generation of highly specialized and contextually relevant game assets.</li>
+
+
+        <li><strong>Fine-Tuning Approach:</strong> The model underwent extensive fine-tuning using a curated dataset of game assets. This process involved adjusting the model's parameters specifically for generating items, characters, and objects relevant to game design.</li>
+
+        <li><strong>Custom Dataset:</strong> A diverse dataset comprising various game asset categories was created. This dataset played a crucial role in guiding the model to understand and generate game-specific visuals effectively.</li>
+
+        <li><strong>Quality of Generated Assets:</strong> The fine-tuned model demonstrated an exceptional ability to generate unique and visually appealing game assets. These assets showcased a blend of creativity and intricacy, fitting seamlessly into various game environments.</li>
+
+        <li><strong>Model Evaluation:</strong> Post-training, the model's output was rigorously evaluated for quality, uniqueness, and relevance to game asset requirements. This process ensured the practical applicability of the generated assets in real-world game development.</li>
+    </ul>
+
+    <p>The convergence of these elements culminated in a fine-tuned Stable Diffusion model that stands as a testament to the potential of AI in creative industries like game development.</p>
+</section>
+
+
+    <section id="gallery">
+    <h2>Image Gallery</h2>
+    <div class="image-grid">
+        <!-- Example of an image with a title -->
+        <div class="image-container">
+    <img src="final_assets/image_gold_axe1.jpg" alt="Image Gold Axe 1">
+    <p class="image-title">Gold Axe - Design 1</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_gold_axe2.jpg" alt="Image Gold Axe 2">
+    <p class="image-title">Gold Axe - Design 2</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_gold_axe3.jpg" alt="Image Gold Axe 3">
+    <p class="image-title">Gold Axe - Design 3</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_gold_axe4.jpg" alt="Image Gold Axe 4">
+    <p class="image-title">Gold Axe - Design 4</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_gold_sword1.jpg" alt="Image Gold Sword 1">
+    <p class="image-title">Gold Sword</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_magic_iron_spear2.jpg" alt="Image Magic Iron Spear">
+    <p class="image-title">Magic Iron Spear</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_axe1.jpg" alt="Image Silver Axe 1">
+    <p class="image-title">Silver Axe - Design 1</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_axe2.jpg" alt="Image Silver Axe 2">
+    <p class="image-title">Silver Axe - Design 2</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_axe3.jpg" alt="Image Silver Axe 3">
+    <p class="image-title">Silver Axe - Design 3</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_axe4.jpg" alt="Image Silver Axe 4">
+    <p class="image-title">Silver Axe - Design 4</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_axe5.jpg" alt="Image Silver Axe 5">
+    <p class="image-title">Silver Axe - Design 5</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_staff1.jpg" alt="Image Silver Staff 1">
+    <p class="image-title">Silver Staff - Design 1</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_staff2.jpg" alt="Image Silver Staff 2">
+    <p class="image-title">Silver Staff - Design 2</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_sword_1.jpg" alt="Image Silver Sword 1">
+    <p class="image-title">Silver Sword - Design 1</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_sword_2.jpg" alt="Image Silver Sword 2">
+    <p class="image-title">Silver Sword - Design 2</p>
+</div>
+
+<div class="image-container">
+    <img src="final_assets/image_silver_sword_3.jpg" alt="Image Silver Sword 3">
+    <p class="image-title">Silver Sword - Design 3</p>
+</div>
+
+    </div>
+</section>
+
+
+    <footer>
+        <p>Project by Dominik Ptaszek © 2024</p>
+    </footer>
+</body>
+</html>
