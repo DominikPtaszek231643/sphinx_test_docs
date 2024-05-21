@@ -1,1 +1,0 @@
-My implementation of challenges is located in the folder located: "Dominik_implementation_231643"
